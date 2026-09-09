@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"centralus"'
   ###############################################
-  ### Replace chantre99 with GitHub username ###
+  ### chantre99 it's the GitHub username #######
   ###############################################
   AZURE_WEBAPP_NAME: chantre99-ttt-app
 
